@@ -1,0 +1,1 @@
+Vehiculo [placa = "hho 000", entrada = 2024-05-20 21:33:52.3452049 UTC, salida = Nothing]
